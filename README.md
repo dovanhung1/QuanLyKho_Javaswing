@@ -15,7 +15,7 @@
 
 3. Sử dụng netbeans để chạy source code.
 ### Tài khoản Admin
-- Username: admin
+- Username: dohung
 - Password: 123456
 ### Giao diện
  ![Giao diện đăng nhập](./img/login.png)
